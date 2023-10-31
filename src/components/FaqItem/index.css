@@ -1,0 +1,31 @@
+/* Write your code here. */
+.list-item-cont {
+  padding: 20px;
+  border-style: solid;
+  border-color: #d7dae6;
+  border-width: 2px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  width: 740px;
+}
+.line {
+  background-color: #d7dae6;
+  height: 2px;
+  border: none;
+}
+.ques-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.btn {
+  outline: none;
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+}
+.img {
+  height: 15px;
+  width: 15px;
+}
